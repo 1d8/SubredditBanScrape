@@ -19,14 +19,14 @@ Say we wanted to investigate /r/uncensorednews, we head [here](https://web.archi
 
 After we do so, we see this:
 
-![](img2.png)
+![](/photos/img2.png)
 
 I chose to go back to the earliest date (June 12 in 2016) since it's unlikely the subreddit was banned. After that take web archive URL & paste it into the code:
 
-![](img3.png)
+![](/photos/img3.png)
 
 Then run it using python 3, which gives us this:
 
-![](img4.png)
+![](/photos/img4.png)
 
 ## NOTE: This code can handle multiple Wayback URLs
